@@ -1,0 +1,9 @@
+Origin: GhostKnow's Repo
+Label: GhostKnow's Repo
+Suite: stable
+Version: 1.0
+Codename: GhostKnow
+Architectures: iphoneos-arm
+Compnents: main
+Description: GhostKnow's Repo
+MD5Sum:

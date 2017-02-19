@@ -1,12 +1,1 @@
-Package: gk.junk4hk
-Name: KuaiDialHongKongBlackListgk
-Version: 20170219
-Description: 20170219
-Section: 
-Depends: firmware (>= 7.1)
-Priority: optional
-Architecture: iphoneos-arm
-Author: ghostknow
-Homepage:
-Icon:
-Maintainer: ghostknow
+
